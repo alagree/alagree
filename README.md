@@ -5,7 +5,7 @@
 🎯 Crafting AI-powered solutions to real-world challenges. With 5+ years in the field, I'm all about translating complex data into actionable insights.
 
 🌐 Connect with me:
-- LinkedIn: www.linkedin.com/in/andrewlagree
+- LinkedIn: [Andrew Lagree] www.linkedin.com/in/andrewlagree
 
 📝 Latest Publications:
 - "AI in Tumor Segmentation" - Scientific Reports
